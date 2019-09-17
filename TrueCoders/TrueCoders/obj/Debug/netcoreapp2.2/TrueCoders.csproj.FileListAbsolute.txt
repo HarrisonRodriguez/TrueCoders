@@ -1,0 +1,11 @@
+/Users/harrisonrodriguez/Desktop/repos/TrueCoders/TrueCoders/bin/Debug/netcoreapp2.2/TrueCoders.deps.json
+/Users/harrisonrodriguez/Desktop/repos/TrueCoders/TrueCoders/bin/Debug/netcoreapp2.2/TrueCoders.runtimeconfig.json
+/Users/harrisonrodriguez/Desktop/repos/TrueCoders/TrueCoders/bin/Debug/netcoreapp2.2/TrueCoders.runtimeconfig.dev.json
+/Users/harrisonrodriguez/Desktop/repos/TrueCoders/TrueCoders/bin/Debug/netcoreapp2.2/TrueCoders.dll
+/Users/harrisonrodriguez/Desktop/repos/TrueCoders/TrueCoders/bin/Debug/netcoreapp2.2/TrueCoders.pdb
+/Users/harrisonrodriguez/Desktop/repos/TrueCoders/TrueCoders/obj/Debug/netcoreapp2.2/TrueCoders.csprojAssemblyReference.cache
+/Users/harrisonrodriguez/Desktop/repos/TrueCoders/TrueCoders/obj/Debug/netcoreapp2.2/TrueCoders.csproj.CoreCompileInputs.cache
+/Users/harrisonrodriguez/Desktop/repos/TrueCoders/TrueCoders/obj/Debug/netcoreapp2.2/TrueCoders.AssemblyInfoInputs.cache
+/Users/harrisonrodriguez/Desktop/repos/TrueCoders/TrueCoders/obj/Debug/netcoreapp2.2/TrueCoders.AssemblyInfo.cs
+/Users/harrisonrodriguez/Desktop/repos/TrueCoders/TrueCoders/obj/Debug/netcoreapp2.2/TrueCoders.dll
+/Users/harrisonrodriguez/Desktop/repos/TrueCoders/TrueCoders/obj/Debug/netcoreapp2.2/TrueCoders.pdb
